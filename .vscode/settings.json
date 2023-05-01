@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "'Cascadia Code','Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "window.zoomLevel": 1.1,
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "expand",
+    "files.defaultLanguage": "${activeEditorLanguage}",
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/mfauz/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.12/synthwave-x-fluoromachine.css"
+    ],
+    "editor.cursorSmoothCaretAnimation": "on",
+}
