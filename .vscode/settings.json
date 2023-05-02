@@ -3,6 +3,7 @@
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
     "window.zoomLevel": 1.1,
+    "workbench.colorTheme": "Bearded Theme Anthracite",
     "editor.smoothScrolling": true,
     "editor.cursorBlinking": "expand",
     "files.defaultLanguage": "${activeEditorLanguage}",
